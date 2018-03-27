@@ -1,2 +1,3 @@
-# elicoin-eshop
-Elicoin e-shop platform
+# Elicoin e-shop
+
+Coming soon...
